@@ -1,4 +1,4 @@
-# 🏨 Hotel Management System — Spring MVC (Java)
+# 🏨 Hotel Resource Allocation Engine
 
 A simple **Hotel Management Web Application** built using **Spring MVC, JSP, and Apache Tomcat**.  
 This project allows users to **add, view, and delete hotel rooms** through a clean and intuitive web interface.
